@@ -1,2 +1,2 @@
 # xiaozhiAI
-小智AI开远代码库
+小智AI开源代码库
